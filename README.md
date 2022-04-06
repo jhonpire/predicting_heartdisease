@@ -47,7 +47,10 @@ This is the first version of the Machine Learning Model we have planned is the f
 
   All the members of the team are responsible of preparing the deliverable required by segment 1 and the majority of the work have been performed in gruop meetings but the final commit of the information have been splitted as follows:
 
-  - Ivan:       Performing the Github Repository for the project, creating the branches and setting up the Flow of the Machine Learning Model
-  - Pavel:      Uploading the jupiter notebook file and loading up the Database to be used until the end of the project
-  - Gustavo:    Preparing the final version of the Readme file to submit.
-  - Jhonatan:   Preparison of the slides presentation to be submited.
+
+  All the members of the team are responsible of preparing the deliverable required by segment 1 and the majority of the work have been performed in gruop meetings but the final commit of the information have been splitted as follows. The definition of the roles are more related to the need of doing that by the deliverable, but the result of the job is based on pure team work in the majority of the aspects:
+
+  - Ivan:       <<SQUARE ROLE>>   Performing the Github Repository for the project, creating the branches.
+  - Pavel:      <<CIRCLE ROLE>>   Uploading the jupiter notebook file and loading up the Database to be used until the end of the project
+  - Gustavo:    <<TRIANGLE ROLE>> Preparing the final version of the Readme file to submit. Setting up the Flow of the Machine Learning Model.
+  - Jhonatan:   << X ROLE>>       Preparison of the slides presentation to be submited.
