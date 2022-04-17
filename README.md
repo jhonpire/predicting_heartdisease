@@ -64,6 +64,12 @@ We have worked exploring and analyzing the dataset to understand the information
 Dashboard Stories: [[Heart Disease Stories]](https://public.tableau.com/app/profile/gustavo.alberto.diaz/viz/ETL-HeartDiseasePrediction-StoryBoard/DashboardDraft?publish=yes)
 
 
+<p align = "left">
+<img src ="https://github.com/ivn-m/predicting_heartdisease/blob/d0e7d3ab8caac968acfb7920db42646918455b62/Predicting%20Heart%20Disease.png?raw=true"/>
+
+
+<p align = "left">
+<img src ="https://github.com/ivn-m/predicting_heartdisease/blob/d0e7d3ab8caac968acfb7920db42646918455b62/Predicting%20Heart%20Disease.png?raw=true"/>
 
 
 ## **<span style='color:#0386f7de'>Segment 1 Responsabilities: </b>**
