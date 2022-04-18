@@ -48,28 +48,45 @@ we plan to follow the steps of the following machine learning flow chart. This c
 
 We have divided the project in several steps that are linked with the way this type of analysis have to be performed:
 
-1- Explore the dataset
-2- Transform values and variables
-3- Load the data into the model
-4- Testing different Machine Learning Model
-5- Machine Learning Model Improvements
-6- Conclusions and Comunication
-
 ### **<span style='color:#0386f7de'>1- Explore the dataset </b>**
-Degree of progress: 95% / 100%
+Degree of progress: 90% / 100%
 
-We have worked exploring and analyzing the dataset to understand the information and its quality. 
-
+We have worked exploring and analyzing the dataset to understand the information and its quality. A summary of the findings have been performed on Tableau for a better visualization:
 
 Dashboard Stories: [[Heart Disease Stories]](https://public.tableau.com/app/profile/gustavo.alberto.diaz/viz/ETL-HeartDiseasePrediction-StoryBoard/DashboardDraft?publish=yes)
 
-
+**General Overview of the Dataset**
 <p align = "left">
-<img src ="https://github.com/ivn-m/predicting_heartdisease/blob/ececdcb5940407445529fc983f4a0533087fb535/Resources/Images/Information%20Provided%20Graph.png?raw=true"/>
+<img src ="https://github.com/ivn-m/predicting_heartdisease/blob/802f8dc42b1cd149315bbe1cb16ceb5260cf39f8/Resources/Images/Dashboard%20Draft.png?raw=true"/>
 
-
+**Overview of the non-numeric Variables**
 <p align = "left">
 <img src ="https://github.com/ivn-m/predicting_heartdisease/blob/ececdcb5940407445529fc983f4a0533087fb535/Resources/Images/Non-Numeric%20Variables.png?raw=true"/>
+
+**Overview of the non-numeric Variables**
+(work in progress..)
+
+### **<span style='color:#0386f7de'>2- Transform values and variables</b>**
+
+<p align = "left">
+<img src ="https://github.com/ivn-m/predicting_heartdisease/blob/802f8dc42b1cd149315bbe1cb16ceb5260cf39f8/Resources/Images/Sleeptime_whole.png?raw=true"/>
+
+<p align = "left">
+<img src ="https://github.com/ivn-m/predicting_heartdisease/blob/802f8dc42b1cd149315bbe1cb16ceb5260cf39f8/Resources/Images/Sleeptime_Clean.png?raw=true"/>
+
+
+### **<span style='color:#0386f7de'>3- Load the data into the model</b>**
+
+
+
+### **<span style='color:#0386f7de'>4- Testing different Machine Learning Model</b>**
+
+### **<span style='color:#0386f7de'>5- Machine Learning Model Improvements</b>**
+
+
+### **<span style='color:#0386f7de'>6- Conclusions and Comunication </b>**
+
+
 
 
 ## **<span style='color:#0386f7de'>Segment 1 Responsabilities: </b>**
