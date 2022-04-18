@@ -109,7 +109,9 @@ Recall 0.95356
 
 ### **<span style='color:#0386f7de'>5- Machine Learning Model Improvements</b>**
 
+
 We are working on improving the model by excluding some variables that do not increase the quality of the prediction. We expect to finish this phase of the project by the endo of next week.
+
 
 ### **<span style='color:#0386f7de'>6- Conclusions and Comunication </b>**
 
