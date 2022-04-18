@@ -111,7 +111,6 @@ Recall 0.95356
 
 We are working on improving the model by excluding some variables that do not increase the quality of the prediction. We expect to finish this phase of the project by the endo of next week.
 
-
 ### **<span style='color:#0386f7de'>6- Conclusions and Comunication </b>**
 
 We are confident on finishing our analysis and sharing our conclusions by the end of the next week. 
