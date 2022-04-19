@@ -104,12 +104,16 @@ We have decided to test three different Machine Learning Model Methods: Confusio
 The best results have been achieved with the Random Forest Classifier method. Acheving the following eficiency values:
 
 Accuracy 0.90790
+
 Precision 0.84292
+
 Recall 0.95356
 
 ### **<span style='color:#0386f7de'>5- Machine Learning Model Improvements</b>**
 
+
 We are working on improving the model by excluding some variables that do not increase the quality of the prediction. We expect to finish this phase of the project by the endo of next week.
+
 
 ### **<span style='color:#0386f7de'>6- Conclusions and Comunication </b>**
 
