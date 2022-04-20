@@ -104,7 +104,9 @@ We have decided to test three different Machine Learning Model Methods: Confusio
 The best results have been achieved with the Random Forest Classifier method. Acheving the following eficiency values:
 
 Accuracy 0.90790
+
 Precision 0.84292
+
 Recall 0.95356
 
 ### **<span style='color:#0386f7de'>5- Machine Learning Model Improvements</b>**
@@ -115,7 +117,12 @@ We are working on improving the model by excluding some variables that do not in
 
 ### **<span style='color:#0386f7de'>6- Conclusions and Comunication </b>**
 
-We are confident on finishing our analysis and sharing our conclusions by the end of the next week. 
+1. We performed a chi-square analysis to test if there is an association between gender and heart disease. We hypothesized that the distrubution of heart disease is equal amongst the genders.The p-value (p=0.0) of our chi-square analysis is below the 0.05 signinficance level, this we reject our null hypothesis. There is a difference in the distribution of heart disease amongst the genders.
+
+2. We performed a chi-square analysis to test if there is an association between age category and heart disease. We hypothesized that the distrubution of heart disease is equal amongst the age groups. The p-value (p=0.0) of our chi-square analysis is below the 0.05 signinficance level, this we reject our null hypothesis. There is a difference in the distribution of heart disease amongst the different age groups.
+
+3. We performed a multivaraite logistic regresstion test the  BMI, Smoking, Alcohol drinking, and prior stroke and their association to heart disease?
+
 
 
 
