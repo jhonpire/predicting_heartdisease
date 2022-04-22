@@ -85,13 +85,16 @@ We have also used a correlation matrix to analyze which are the most correlated 
 <p align = "left">
 <img src ="https://github.com/ivn-m/predicting_heartdisease/blob/283864e73938e0bb03d108dcc99a4d11afc7658c/Resources/Images/Heat_Map.png?raw=true"/>
 
-Finally we detect that the database is not balanced to perform a Machine Learning process: 
+Finally we detect that the database is not balanced to perform a Machine Learning process. Class imbalanced is generally normal in classification problems. But, in some cases, the imbalance is quite acute where the majority class’s presence is much higher than the minority class. 
 
 <p align = "left">
 <img src =https://github.com/ivn-m/predicting_heartdisease/blob/283864e73938e0bb03d108dcc99a4d11afc7658c/Resources/Images/Confirming_Imbalance.png?raw=true"/>
 
-We have decided to use the RandomOverSampler and RandomUnderSampler method to adjust the balance of the dataset.
+We have decided to use the RandomOverSampler and RandomUnderSampler method to adjust the balance of the dataset. 
 
+![Rebalancing_Dataset](https://user-images.githubusercontent.com/93852380/164569968-33e8eb7e-8574-4b64-a61b-04f4831cf61f.png)
+
+Random oversampling involves randomly selecting examples from the minority class, with replacement, and adding them to the training dataset. Random undersampling involves randomly selecting examples from the majority class and deleting them from the training dataset.
 
 ### **<span style='color:#0386f7de'>3- Load the data into the model</b>**
 
@@ -101,13 +104,23 @@ We have loaded the dataset with the adjustments expresed in the previous step. W
 
 We have decided to test three different Machine Learning Model Methods: Confusion Matrix, Logistic Regresion and Random Forest Classifier. 
 
-The best results have been achieved with the Random Forest Classifier method. Acheving the following eficiency values:
+### Confusion Matrix:
+![Confusion_Matrix_Readme](https://user-images.githubusercontent.com/93852380/164588917-60ede782-8c18-49f8-b33f-7c53022a6ac2.png)
 
-Accuracy 0.90790
+### Logistic Regresion:
+![Logistic_Regresion_Readme](https://user-images.githubusercontent.com/93852380/164588971-cb8f6dae-be09-4f7d-9680-5128ed6d56b3.png)
 
-Precision 0.84292
+### Random Forest Classifier
+![Random_Forest_Classifier_Readme](https://user-images.githubusercontent.com/93852380/164589055-0282f996-0386-447d-a728-5566bb9d876e.png)
 
-Recall 0.95356
+
+The best results have been achieved with the Random Forest Classifier method. Achieving the following eficiency values:
+
+Accuracy 0.9211621
+
+Precision 0.863853
+
+Recall 0.9602351
 
 ### **<span style='color:#0386f7de'>5- Machine Learning Model Improvements</b>**
 
