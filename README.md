@@ -90,6 +90,12 @@ Finally we detect that the database is not balanced to perform a Machine Learnin
 <p align = "left">
 <img src =https://github.com/ivn-m/predicting_heartdisease/blob/283864e73938e0bb03d108dcc99a4d11afc7658c/Resources/Images/Confirming_Imbalance.png?raw=true"/>
 
+Now that we have split our data into training and testing sets, we can scale the data using Scikit-learn's
+The standard scaler standardizes the data. Which means that each feature will be rescaled so that its mean is 0 and its standard deviation is 1
+![Scaling_Readme](https://user-images.githubusercontent.com/93852380/164817088-63b3ea66-7466-4ce1-a81b-3ee941115359.png)
+
+
+
 We have decided to use the RandomOverSampler and RandomUnderSampler method to adjust the balance of the dataset. 
 
 ![Rebalancing_Dataset](https://user-images.githubusercontent.com/93852380/164569968-33e8eb7e-8574-4b64-a61b-04f4831cf61f.png)
@@ -98,7 +104,7 @@ Random oversampling involves randomly selecting examples from the minority class
 
 ### **<span style='color:#0386f7de'>3- Load the data into the model</b>**
 
-We have loaded the dataset with the adjustments expresed in the previous step. We are in the process of analyzing if all the variables helps to predict heart disease or if we could have a better model with less variables involved.
+We have loaded the dataset with the adjustments expresed in the previous step. We are in the process of analyzing if all the variables helps to predict heart disease or if we could have a better model with less variables involved. Modeling is an iterative process: you may need more data, more cleaning, another model parameter, or a different model. It's also important to have a goal that's been agreed upon, so that you know when the model is good enough.
 
 ### **<span style='color:#0386f7de'>4- Testing different Machine Learning Model</b>**
 
@@ -122,11 +128,16 @@ Precision 0.863853
 
 Recall 0.9602351
 
+In summary, this model is one of the best one for predicting heart disease based on personal key indicators because the model's accuracy, 0.92, is high, and the precision and recall are good enough to state that the model will be good at  predicting heart disease.
+
 ### **<span style='color:#0386f7de'>5- Machine Learning Model Improvements</b>**
 
 
-We are working on improving the model by excluding some variables that do not increase the quality of the prediction. We expect to finish this phase of the project by the endo of next week.
+In the next steps we  improved the model by excluding some variables that do not increase the quality of the prediction. 
 
+![Balanced_Random_Forest_Classifier_Readme](https://user-images.githubusercontent.com/93852380/164867591-b1d66150-2784-4cbf-bf8b-f2d1c1717e5c.png)
+
+According to the results the Accuracy avg/total for the Precision is 0.88, for the Recall 0.86, for F1-Score 0.86, and support 52.6. 
 
 ### **<span style='color:#0386f7de'>6- Conclusions and Comunication </b>**
 
@@ -135,7 +146,6 @@ We are working on improving the model by excluding some variables that do not in
 2. We performed a chi-square analysis to test if there is an association between age category and heart disease. We hypothesized that the distrubution of heart disease is equal amongst the age groups. The p-value (p=0.0) of our chi-square analysis is below the 0.05 signinficance level, this we reject our null hypothesis. There is a difference in the distribution of heart disease amongst the different age groups.
 
 3. We performed a multivaraite logistic regresstion test the  BMI, Smoking, Alcohol drinking, and prior stroke and their association to heart disease?
-
 
 
 
