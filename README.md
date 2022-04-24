@@ -4,6 +4,9 @@ Source data: [[Kaggle Database]](https://www.kaggle.com/datasets/kamilpytlak/per
 
 The presentation of this project can be accessed [[here]](https://github.com/ivn-m/predicting_heartdisease/blob/782d0eba60767ab90d0c36e300bbc5a88ab50d20/Green%20Team%20%20-%20Predicting%20Heart%20Disease%20EDIT.pdf)
 
+Interactive Dashboard displaying Exploratory Analysis [[Dashboard]](https://public.tableau.com/app/profile/jhonatan.pirela/viz/ETL-HeartDiseasePrediction-DashboardV2/HeartDiseaseDashboard?publish=yes)
+
+
 ## **<span style='color:#0386f7de'>Significance </b>**
 
 Several health conditions, your lifestyle, your age and family history can increase your risk for heart disease. These are called risk factors. About half of all Americans (47%) have at least 1 of 3 key risk factors for heart disease: high blood pressure, high cholesterol, and smoking. Some risk factors for heart disease cannot be controlled, such as your age or family history. But you can take steps to lower your risk by changing the factors you can control [[Source: Center for Disease Control and Prevention]](https://www.cdc.gov/heartdisease/risk_factors.htm)
