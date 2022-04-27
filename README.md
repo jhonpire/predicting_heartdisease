@@ -2,7 +2,7 @@
 
 Source data: [[Kaggle Database]](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
 
-The presentation of this project can be accessed [[here]](https://github.com/ivn-m/predicting_heartdisease/blob/782d0eba60767ab90d0c36e300bbc5a88ab50d20/Green%20Team%20%20-%20Predicting%20Heart%20Disease%20EDIT.pdf)
+The presentation of this project can be accessed [[here]](https://docs.google.com/presentation/d/1V3dZCpzDp9Q2oq1DECRY6O3ylrlKOGtQVF9pc7DkagE/edit?usp=sharing)
 
 ## **<span style='color:#0386f7de'>Significance </b>**
 
