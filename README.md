@@ -66,9 +66,6 @@ Dashboard Stories: [[Heart Disease Stories]](https://public.tableau.com/app/prof
 <p align = "left">
 <img src ="https://github.com/ivn-m/predicting_heartdisease/blob/ececdcb5940407445529fc983f4a0533087fb535/Resources/Images/Non-Numeric%20Variables.png?raw=true"/>
 
-**Overview of the non-numeric Variables**
-We are still working on the Tableau presentation for this type of variables.
-
 ### **<span style='color:#0386f7de'>2- Transform values and variables</b>**
 
 We have analized and concluded that the dataset is quite clean and complete. There are not null variables and the data contained in the variables is consistent. The only variable where we found the need of cleaning is Sleeptime, where we found some data the could be considered as a mistake, as is shown on the graph below:
