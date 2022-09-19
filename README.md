@@ -148,4 +148,4 @@ According to the results the Accuracy avg/total for the Precision is 0.88, for t
 3. We performed a multivaraite logistic regresstion test the  BMI, Smoking, Alcohol drinking, and prior stroke and their association to heart disease?
 
 
-
+  
