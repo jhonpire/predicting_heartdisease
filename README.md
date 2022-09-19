@@ -46,7 +46,7 @@ we plan to follow the steps of the following machine learning flow chart. This c
 - Team members will communicate with each other in the case they need internal deadline extensions or help with their part of the project.
 - Team members will distribute work evenly amongst each other and be repsonsible for their distrib
 
-
+   
 ## **<span style='color:#0386f7de'>Update on the status of the project </b>**
 
 We have divided the project in several steps that are linked with the way this type of analysis have to be performed:
